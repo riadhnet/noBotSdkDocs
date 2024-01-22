@@ -1,0 +1,67 @@
+$dokka.format:html-v1
+$dokka.linkExtension:html
+$dokka.location:com.riadh.sdk.fingerprinting.api////PointingToDeclaration/sdk/com.riadh.sdk.fingerprinting.api/index.html
+$dokka.location:com.riadh.sdk.fingerprinting.api/SdkFakeApiService///PointingToDeclaration/sdk/com.riadh.sdk.fingerprinting.api/-sdk-fake-api-service/index.html
+$dokka.location:com.riadh.sdk.fingerprinting.api/SdkFakeApiService/sendFingerprint/#kotlin.String/PointingToDeclaration/sdk/com.riadh.sdk.fingerprinting.api/-sdk-fake-api-service/send-fingerprint.html
+$dokka.location:com.riadh.sdk.fingerprinting.api/SdkFakeDataSource///PointingToDeclaration/sdk/com.riadh.sdk.fingerprinting.api/-sdk-fake-data-source/index.html
+$dokka.location:com.riadh.sdk.fingerprinting.api/SdkFakeDataSource/sendFingerprint/#kotlin.String/PointingToDeclaration/sdk/com.riadh.sdk.fingerprinting.api/-sdk-fake-data-source/send-fingerprint.html
+$dokka.location:com.riadh.sdk.fingerprinting.api/SdkFakeDataSourceImpl///PointingToDeclaration/sdk/com.riadh.sdk.fingerprinting.api/-sdk-fake-data-source-impl/index.html
+$dokka.location:com.riadh.sdk.fingerprinting.api/SdkFakeDataSourceImpl/SdkFakeDataSourceImpl/#com.riadh.sdk.fingerprinting.api.SdkFakeApiService/PointingToDeclaration/sdk/com.riadh.sdk.fingerprinting.api/-sdk-fake-data-source-impl/-sdk-fake-data-source-impl.html
+$dokka.location:com.riadh.sdk.fingerprinting.api/SdkFakeDataSourceImpl/sendFingerprint/#kotlin.String/PointingToDeclaration/sdk/com.riadh.sdk.fingerprinting.api/-sdk-fake-data-source-impl/send-fingerprint.html
+$dokka.location:com.riadh.sdk.fingerprinting.model////PointingToDeclaration/sdk/com.riadh.sdk.fingerprinting.model/index.html
+$dokka.location:com.riadh.sdk.fingerprinting.model/FingerprintData///PointingToDeclaration/sdk/com.riadh.sdk.fingerprinting.model/-fingerprint-data/index.html
+$dokka.location:com.riadh.sdk.fingerprinting.model/FingerprintData/FingerprintData/#kotlin.String#kotlin.String#kotlin.String#kotlin.String#kotlin.String#kotlin.String#kotlin.String#kotlin.String#kotlin.String#kotlin.String#kotlin.String#kotlin.Int/PointingToDeclaration/sdk/com.riadh.sdk.fingerprinting.model/-fingerprint-data/-fingerprint-data.html
+$dokka.location:com.riadh.sdk.fingerprinting.model/FingerprintData/appVersion/#/PointingToDeclaration/sdk/com.riadh.sdk.fingerprinting.model/-fingerprint-data/app-version.html
+$dokka.location:com.riadh.sdk.fingerprinting.model/FingerprintData/batteryLevel/#/PointingToDeclaration/sdk/com.riadh.sdk.fingerprinting.model/-fingerprint-data/battery-level.html
+$dokka.location:com.riadh.sdk.fingerprinting.model/FingerprintData/deviceID/#/PointingToDeclaration/sdk/com.riadh.sdk.fingerprinting.model/-fingerprint-data/device-i-d.html
+$dokka.location:com.riadh.sdk.fingerprinting.model/FingerprintData/deviceModel/#/PointingToDeclaration/sdk/com.riadh.sdk.fingerprinting.model/-fingerprint-data/device-model.html
+$dokka.location:com.riadh.sdk.fingerprinting.model/FingerprintData/locale/#/PointingToDeclaration/sdk/com.riadh.sdk.fingerprinting.model/-fingerprint-data/locale.html
+$dokka.location:com.riadh.sdk.fingerprinting.model/FingerprintData/manufacturer/#/PointingToDeclaration/sdk/com.riadh.sdk.fingerprinting.model/-fingerprint-data/manufacturer.html
+$dokka.location:com.riadh.sdk.fingerprinting.model/FingerprintData/osVersion/#/PointingToDeclaration/sdk/com.riadh.sdk.fingerprinting.model/-fingerprint-data/os-version.html
+$dokka.location:com.riadh.sdk.fingerprinting.model/FingerprintData/processorCount/#/PointingToDeclaration/sdk/com.riadh.sdk.fingerprinting.model/-fingerprint-data/processor-count.html
+$dokka.location:com.riadh.sdk.fingerprinting.model/FingerprintData/screenResolution/#/PointingToDeclaration/sdk/com.riadh.sdk.fingerprinting.model/-fingerprint-data/screen-resolution.html
+$dokka.location:com.riadh.sdk.fingerprinting.model/FingerprintData/sdkVersion/#/PointingToDeclaration/sdk/com.riadh.sdk.fingerprinting.model/-fingerprint-data/sdk-version.html
+$dokka.location:com.riadh.sdk.fingerprinting.model/FingerprintData/storage/#/PointingToDeclaration/sdk/com.riadh.sdk.fingerprinting.model/-fingerprint-data/storage.html
+$dokka.location:com.riadh.sdk.fingerprinting.model/FingerprintData/timezone/#/PointingToDeclaration/sdk/com.riadh.sdk.fingerprinting.model/-fingerprint-data/timezone.html
+$dokka.location:com.riadh.sdk.fingerprinting.repository////PointingToDeclaration/sdk/com.riadh.sdk.fingerprinting.repository/index.html
+$dokka.location:com.riadh.sdk.fingerprinting.repository/SdkFakeRepository///PointingToDeclaration/sdk/com.riadh.sdk.fingerprinting.repository/-sdk-fake-repository/index.html
+$dokka.location:com.riadh.sdk.fingerprinting.repository/SdkFakeRepository/sendFingerprint/#kotlin.String/PointingToDeclaration/sdk/com.riadh.sdk.fingerprinting.repository/-sdk-fake-repository/send-fingerprint.html
+$dokka.location:com.riadh.sdk.fingerprinting.repository/SdkFakeRepositoryImpl///PointingToDeclaration/sdk/com.riadh.sdk.fingerprinting.repository/-sdk-fake-repository-impl/index.html
+$dokka.location:com.riadh.sdk.fingerprinting.repository/SdkFakeRepositoryImpl/SdkFakeRepositoryImpl/#com.riadh.sdk.fingerprinting.api.SdkFakeDataSource/PointingToDeclaration/sdk/com.riadh.sdk.fingerprinting.repository/-sdk-fake-repository-impl/-sdk-fake-repository-impl.html
+$dokka.location:com.riadh.sdk.fingerprinting.repository/SdkFakeRepositoryImpl/sendFingerprint/#kotlin.String/PointingToDeclaration/sdk/com.riadh.sdk.fingerprinting.repository/-sdk-fake-repository-impl/send-fingerprint.html
+$dokka.location:com.riadh.sdk.fingerprinting////PointingToDeclaration/sdk/com.riadh.sdk.fingerprinting/index.html
+$dokka.location:com.riadh.sdk.fingerprinting/DataCollector///PointingToDeclaration/sdk/com.riadh.sdk.fingerprinting/-data-collector/index.html
+$dokka.location:com.riadh.sdk.fingerprinting/DataCollector/DataCollector/#android.content.Context/PointingToDeclaration/sdk/com.riadh.sdk.fingerprinting/-data-collector/-data-collector.html
+$dokka.location:com.riadh.sdk.fingerprinting/DataCollector/collectData/#/PointingToDeclaration/sdk/com.riadh.sdk.fingerprinting/-data-collector/collect-data.html
+$dokka.location:com.riadh.sdk.fingerprinting/FingerprintGenerator///PointingToDeclaration/sdk/com.riadh.sdk.fingerprinting/-fingerprint-generator/index.html
+$dokka.location:com.riadh.sdk.fingerprinting/FingerprintGenerator/FingerprintGenerator/#/PointingToDeclaration/sdk/com.riadh.sdk.fingerprinting/-fingerprint-generator/-fingerprint-generator.html
+$dokka.location:com.riadh.sdk.fingerprinting/FingerprintGenerator/generate/#kotlin.String/PointingToDeclaration/sdk/com.riadh.sdk.fingerprinting/-fingerprint-generator/generate.html
+$dokka.location:com.riadh.sdk.fingerprinting/FingerprintSender///PointingToDeclaration/sdk/com.riadh.sdk.fingerprinting/-fingerprint-sender/index.html
+$dokka.location:com.riadh.sdk.fingerprinting/FingerprintSender/FingerprintSender/#/PointingToDeclaration/sdk/com.riadh.sdk.fingerprinting/-fingerprint-sender/-fingerprint-sender.html
+$dokka.location:com.riadh.sdk.fingerprinting/FingerprintSender/repositoryProvider/#/PointingToDeclaration/sdk/com.riadh.sdk.fingerprinting/-fingerprint-sender/repository-provider.html
+$dokka.location:com.riadh.sdk.fingerprinting/FingerprintSender/sendFingerprint/#kotlin.String#kotlin.String/PointingToDeclaration/sdk/com.riadh.sdk.fingerprinting/-fingerprint-sender/send-fingerprint.html
+$dokka.location:com.riadh.sdk.network////PointingToDeclaration/sdk/com.riadh.sdk.network/index.html
+$dokka.location:com.riadh.sdk.network/BotHeaderInterceptor///PointingToDeclaration/sdk/com.riadh.sdk.network/-bot-header-interceptor/index.html
+$dokka.location:com.riadh.sdk.network/BotHeaderInterceptor/BotHeaderInterceptor/#android.content.Context#com.riadh.sdk.fingerprinting.FingerprintGenerator#com.riadh.sdk.fingerprinting.FingerprintSender/PointingToDeclaration/sdk/com.riadh.sdk.network/-bot-header-interceptor/-bot-header-interceptor.html
+$dokka.location:com.riadh.sdk.network/BotHeaderInterceptor/intercept/#com.riadh.sdk.network.RequestChain/PointingToDeclaration/sdk/com.riadh.sdk.network/-bot-header-interceptor/intercept.html
+$dokka.location:com.riadh.sdk.network/CustomInterceptor///PointingToDeclaration/sdk/com.riadh.sdk.network/-custom-interceptor/index.html
+$dokka.location:com.riadh.sdk.network/CustomInterceptor/intercept/#com.riadh.sdk.network.RequestChain/PointingToDeclaration/sdk/com.riadh.sdk.network/-custom-interceptor/intercept.html
+$dokka.location:com.riadh.sdk.network/HttpRequest///PointingToDeclaration/sdk/com.riadh.sdk.network/-http-request/index.html
+$dokka.location:com.riadh.sdk.network/HttpRequest/HttpRequest/#kotlin.String#kotlin.String#kotlin.collections.Map[kotlin.String,kotlin.String]#kotlin.String?/PointingToDeclaration/sdk/com.riadh.sdk.network/-http-request/-http-request.html
+$dokka.location:com.riadh.sdk.network/HttpRequest/body/#/PointingToDeclaration/sdk/com.riadh.sdk.network/-http-request/body.html
+$dokka.location:com.riadh.sdk.network/HttpRequest/headers/#/PointingToDeclaration/sdk/com.riadh.sdk.network/-http-request/headers.html
+$dokka.location:com.riadh.sdk.network/HttpRequest/method/#/PointingToDeclaration/sdk/com.riadh.sdk.network/-http-request/method.html
+$dokka.location:com.riadh.sdk.network/HttpRequest/url/#/PointingToDeclaration/sdk/com.riadh.sdk.network/-http-request/url.html
+$dokka.location:com.riadh.sdk.network/NoBotSdk///PointingToDeclaration/sdk/com.riadh.sdk.network/-no-bot-sdk/index.html
+$dokka.location:com.riadh.sdk.network/NoBotSdk/NoBotSdk/#com.riadh.sdk.network.CustomInterceptor?/PointingToDeclaration/sdk/com.riadh.sdk.network/-no-bot-sdk/-no-bot-sdk.html
+$dokka.location:com.riadh.sdk.network/NoBotSdk/makeRequest/#com.riadh.sdk.network.HttpRequest/PointingToDeclaration/sdk/com.riadh.sdk.network/-no-bot-sdk/make-request.html
+$dokka.location:com.riadh.sdk.network/RequestChain///PointingToDeclaration/sdk/com.riadh.sdk.network/-request-chain/index.html
+$dokka.location:com.riadh.sdk.network/RequestChain/RequestChain/#com.riadh.sdk.network.HttpRequest/PointingToDeclaration/sdk/com.riadh.sdk.network/-request-chain/-request-chain.html
+$dokka.location:com.riadh.sdk.network/RequestChain/proceed/#com.riadh.sdk.network.HttpRequest/PointingToDeclaration/sdk/com.riadh.sdk.network/-request-chain/proceed.html
+$dokka.location:com.riadh.sdk.network/RequestChain/request/#/PointingToDeclaration/sdk/com.riadh.sdk.network/-request-chain/request.html
+com.riadh.sdk.fingerprinting
+com.riadh.sdk.fingerprinting.api
+com.riadh.sdk.fingerprinting.model
+com.riadh.sdk.fingerprinting.repository
+com.riadh.sdk.network
+
